@@ -4,7 +4,7 @@
   <artifactId>springbootwithjava7</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>springboothwithjava7</name>
-  <description>springboot with java 7</description>
+  <description>springboot with java 7 This message is change by manager</description>
   <packaging>jar</packaging>
   
   <parent>
